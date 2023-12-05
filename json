@@ -1,0 +1,68 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads": "",
+      "main_ads_banner": "1284893048911676_1284893785578269",
+      "main_ads_intertitial": "1284893048911676_1284894052244909",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+	  "main_ads_native": "1284893048911676_1497109517690027",
+      "backup_ads_native": "",
+      "interstitial_counter": "0",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "keyword_home_fragment": "bt21 , gashalife , little girl",
+      "show_category": "1"
+    }
+  ],
+  "DATA": [
+  {
+      "title_search": "girls art",
+      "image_url": "https://i.pinimg.com/564x/11/70/ae/1170ae481ed3a9a7b2903b96c18867d4.jpg"
+    },
+    {
+      "title_search": "fantasy",
+      "image_url": "https://i.pinimg.com/564x/38/df/03/38df03c9a76f9825d7f315c51971c277.jpg"
+    },
+    {
+      "title_search": "art",
+      "image_url": "https://i.pinimg.com/564x/f3/59/ba/f359ba98b8d98c33ff6b641d0e1fd2bf.jpg"
+    },
+    {
+      "title_search": "sky",
+      "image_url": "https://i.pinimg.com/564x/76/93/df/7693dffc677d838c69755a12a0a589f1.jpg"
+    },
+    {
+      "title_search": "space art",
+      "image_url": "https://i.pinimg.com/564x/79/1f/19/791f19e3fdcf3a9800d515a15b0acc45.jpg"
+    },
+    {
+      "title_search": "sea art",
+      "image_url": "https://i.pinimg.com/564x/ac/66/89/ac66891bc40db70b119d891e3681e17a.jpg"
+    },
+    {
+      "title_search": "sky art",
+      "image_url": "https://i.pinimg.com/564x/12/b3/93/12b393c589a59f8f8a142e06a54ce0be.jpg"
+    },
+    {
+      "title_search": "nature art",
+      "image_url": "https://i.pinimg.com/564x/a6/60/2f/a6602f9ed9899001c1dc6d71c89f940e.jpg"
+    },
+    {
+      "title_search": "anime art",
+      "image_url": "https://i.pinimg.com/564x/97/49/d5/9749d53fcb61b94b8c0e71e4831ef2bb.jpg"
+    },
+    {
+      "title_search": "ayes art",
+      "image_url": "https://i.pinimg.com/564x/22/d2/b9/22d2b9aadfea6edd6a5548d7d37bb747.jpg"
+    }
+  ]
+}
